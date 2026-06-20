@@ -1,0 +1,12 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2014,
+  "baidu_script_pages": 2014,
+  "missing_baidu": [],
+  "category_assigned_count": 2000,
+  "category_unique_movies": 2000,
+  "category_page_count": 10,
+  "image_files_in_package": 0,
+  "no_visible_rule_text": true
+}
